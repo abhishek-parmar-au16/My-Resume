@@ -1,0 +1,15 @@
+.about-page {
+  padding: 175px;
+  height: 90vh;
+}
+
+.about-btn {
+  margin-top: 15px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.about {
+  font-family: "Biryani", sans-serif;
+  font-weight: 900;
+}

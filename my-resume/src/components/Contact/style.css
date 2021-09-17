@@ -1,0 +1,16 @@
+#contact {
+  background-image: url("./image/escr.jpg");
+  background-position: center;
+  height: auto;
+}
+.contact {
+  font-family: "Biryani", sans-serif;
+  font-weight: 900;
+}
+
+.contact-btn:hover {
+  transition: all 0.2s ease-in-out;
+  color: white;
+  cursor: pointer;
+  transform: scale(1.5);
+}
